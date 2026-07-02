@@ -7,7 +7,3 @@ routes = [{ pattern = "jingguohua.cc.cd", custom_domain = true }]
 [[kv_namespaces]]
 binding = "KV"
 id = "74f769a018474791831a654a4deac246"
-
-# 全局默认变量
-[vars]
-ADMIN = jing6288102
