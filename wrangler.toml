@@ -1,6 +1,8 @@
-name = "vite-react-template"
+# wrangler.toml
+name = "vite-react-template-worker"
 main = "worker.js"
 compatibility_date = "2026-07-02"
+routes = [{ pattern = "jingguohua.cc.cd", custom_domain = true }]
 
 [[kv_namespaces]]
 binding = "KV"
