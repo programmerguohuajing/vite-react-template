@@ -1,0 +1,7 @@
+name = "vite-react-template"
+main = "worker.js"
+compatibility_date = "2026-07-02"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "74f769a018474791831a654a4deac246"
